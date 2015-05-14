@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello Swisscom!</title>
+	<title>Hello Zuora!</title>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
@@ -50,5 +50,6 @@
 		<?php
 	}
 	?>
+	Hello PHP app from GitHub running in a docker container deployed by TuTum on AWS.
 </body>
 </html>
